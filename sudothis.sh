@@ -1,2 +1,2 @@
-sudo chmod 666 /dev/bus/usb/003/007 
+sudo chmod 666 /dev/bus/usb/003/004 
 
